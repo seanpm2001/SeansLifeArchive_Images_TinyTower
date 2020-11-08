@@ -1,6 +1,14 @@
 
 ***
 
+# Tiny Tower
+
+![TinyTower_ChristmasLogo.jpeg](TinyTower_ChristmasLogo.jpeg) <!-- Change this logo upon new seasons or holidays !-->
+
+# By:
+
+![NimbleBit_Logo.png](NimbleBit_Logo.png)
+
 ### Top
 
 # `README.md`
@@ -54,6 +62,12 @@ See above. This repository hosts all mt daily Tiny Tower session pictures. I cur
 
 These daily pictures are to be used for progress monitoring, but can also be used as stock images. You can learn more about Tiny Tower by [clicking/tapping here](https://en.wikipedia.org/wiki/Tiny_Tower).
 
+I started playing Tiny Tower again on May 9th 2019. Currently, images on my local hard drive span from May 9th 2020 to the present day, but images in several months along with data from March 29th 2020 to July 2020 is missing.
+
+I played the game in the past on iOS from 2012 to 2013. I made it to 41 floors, but then a bug happened and the game got so stuck I had to reset my tower.
+
+I attempted to play on Android again in sometime in 2015 (I can't pinpoint it exactly) but it was requiring me to create a mobage account, and I was unable to do that, so I didn't play until another few years. I stopped playing, but started playing again on May 9th 2019. I have been playing daily ever since.
+
 ***
 
 ## Wiki
@@ -74,7 +88,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 749 commits (As of Friday, November 6th 2020 at 1:19 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 758 commits (As of Sunday, November 8th 2020 at 1:42 pm)
 
 > * 2. No other contributers.
 
@@ -140,9 +154,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Friday, November 6th 2020 at 1:19 pm)`
+File version: `2 (Sunday, November 8th 2020 at 1:42 pm)`
 
-Line count: `0,200`
+Line count: `0,236`
 
 ***
 
@@ -182,13 +196,35 @@ Version 1 (Friday, November 6th 2020 at 1:19 pm)
 
 > * No other changes in version 1
 
-Version 2 (coming soon)
+Version 2 (Sunday, November 8th 2020 at 1:42 pm)
+
+> Changes:
+
+> * Updated the release notes
+
+> * Added template release notes for v3 and v4
+
+> * Added branding images to the top of the `README.md` file
+
+> * Updated the `# About` section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
