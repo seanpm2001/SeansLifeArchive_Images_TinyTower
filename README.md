@@ -41,13 +41,15 @@
 
 > [07.4 - Active pull requests](#Active-pull-requests)
 
-[08.0 - Contributing](#Contributing)
+[08.0 - Resources](#Resources)
 
-[09.0 - About README](#About-README)
+[09.0 - Contributing](#Contributing)
 
-[10.0 - README Version history](#README-version-history)
+[10.0 - About README](#About-README)
 
-[11.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[11.0 - README Version history](#README-version-history)
+
+[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -58,7 +60,7 @@ The module for my life story project that contains my Tiny Tower images.
 
 ## About
 
-See above. This repository hosts all mt daily Tiny Tower session pictures. I currently play the [Android version](https://play.google.com/store/apps/details?id=com.nimblebit.tinytower&hl=en&gl=US) but when I originally played in 2012/2013, I played the [iOS version](https://apps.apple.com/us/app/tiny-tower/id422667065)
+See above. This repository hosts all my daily Tiny Tower session pictures. I currently play the [Android version](https://play.google.com/store/apps/details?id=com.nimblebit.tinytower&hl=en&gl=US) but when I originally played in 2012/2013, I played the [iOS version](https://apps.apple.com/us/app/tiny-tower/id422667065)
 
 These daily pictures are to be used for progress monitoring, but can also be used as stock images. You can learn more about Tiny Tower by [clicking/tapping here](https://en.wikipedia.org/wiki/Tiny_Tower).
 
@@ -78,9 +80,23 @@ I attempted to play on Android again in sometime in 2015 (I can't pinpoint it ex
 
 ## Version history
 
-Unavailable
+1. [Milestone 5 Version 1.0A (M5V1.0A)](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower/releases/tag/M5V1.0A)
 
-[More versions coming soon](https://www.example.com)
+> Commits: 763 (released: November 8th 2020 at 1:59 pm)
+
+**WARNING!**
+
+This release is over **10 Gigabytes** in size.
+
+2. [Milestone 5 Version 1.0B (M5V1.0B)](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower/releases/tag/M5V1.0B)
+
+> Commits: 920 (released: November 8th 2020 at 3:03 pm)
+
+**WARNING!**
+
+This release is over **10 Gigabytes** in size.
+
+3. [More versions coming soon](https://www.example.com)
 
 ***
 
@@ -88,7 +104,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 758 commits (As of Sunday, November 8th 2020 at 1:42 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 923 commits (As of Sunday, November 8th 2020 at 4:27 pm)
 
 > * 2. No other contributers.
 
@@ -142,11 +158,35 @@ None at the moment
 
 ***
 
+## Resources
+
+Here are some other resources for this game:
+
+[Links.md - Links to various resources](LINKS.md)
+
+[LANG.e - The language file for this project](LANG.e)
+
+[LICENSE.txt - The GPLV3 license used on this project](LICENSE.txt)
+
+### Images
+
+[Default Tiny Tower logo](TinyTower_DefaultLogo.jpeg)
+
+[Valentines day Tiny Tower logo](TinyTower_ValentinesDay_Logo.png)
+
+[Summer Tiny Tower logo](TinyTower_CoffeeLogo.png)
+
+[Christmas Tiny Tower logo](TinyTower_ChristmasLogo.jpeg)
+
+No other resources at the moment
+
+***
+
 ## Contributing
 
 Contributing is not allowed for this project, as it is a personal project.
 
-[Click/tap here to view the contributing rules for this project](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower/blob/master/CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
 
 ***
 
@@ -154,9 +194,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Sunday, November 8th 2020 at 1:42 pm)`
+File version: `3 (Sunday, November 8th 2020 at 4:27 pm)`
 
-Line count: `0,236`
+Line count: `0,286`
 
 ***
 
@@ -210,11 +250,21 @@ Version 2 (Sunday, November 8th 2020 at 1:42 pm)
 
 > * No other changes in version 2
 
-Version 3 (coming soon)
+Version 3 (Sunday, November 8th 2020 at 4:27 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the about section (1 spelling fix)
+
+> * Updated the releases section
+
+> * Updated the contributing section
+
+> * Updated the index
+
+> * Added the resources section
+
+> * Added an entry for V3
 
 > * No other changes in version 3
 
