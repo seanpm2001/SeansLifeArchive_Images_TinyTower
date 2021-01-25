@@ -3,7 +3,7 @@
 
 # Coin farm levels
 
-Here is a guide to the levels of coin farms in Tiny Tower
+Here is a guide to the levels of coin farms in Tiny Tower. Coin farm towers are tall towers that you can add as friends to maximize daily coin profits.
 
 # A type
 
@@ -817,7 +817,427 @@ Level 29.9 - 2990 floors
 
 Level 30.0 - 3000 floors
 
-**Stopping at 3000 for now, as I don't have time to keep adding more. Users can edit this if they want to add the next 2000**
+Level 30.1 - 3010 floors
+
+Level 30.2 - 3020 floors
+
+Level 30.3 - 3030 floors
+
+Level 30.4 - 3040 floors
+
+Level 30.5 - 3050 floors
+
+Level 30.6 - 3060 floors
+
+Level 30.7 - 3070 floors
+
+Level 30.8 - 3080 floors
+
+Level 30.9 - 3090 floors
+
+Level 31.0 - 3100 floors
+
+Level 31.1 - 3110 floors
+
+Level 31.2 - 3120 floors
+
+Level 31.3 - 3130 floors
+
+Level 31.4 - 3140 floors
+
+Level 31.5 - 3150 floors
+
+Level 31.6 - 3160 floors
+
+Level 31.7 - 3170 floors
+
+Level 31.8 - 3180 floors
+
+Level 31.9 - 3190 floors
+
+Level 32.0 - 3200 floors
+
+Level 32.1 - 3210 floors
+
+Level 32.2 - 3220 floors
+
+Level 32.3 - 3230 floors
+
+Level 32.4 - 3240 floors
+
+Level 32.5 - 3250 floors
+
+Level 32.6 - 3260 floors
+
+Level 32.7 - 3270 floors
+
+Level 32.8 - 3280 floors
+
+Level 32.9 - 3290 floors
+
+Level 33.0 - 3300 floors
+
+Level 33.1 - 3310 floors
+
+Level 33.2 - 3320 floors
+
+Level 33.3 - 3330 floors
+
+Level 33.4 - 3340 floors
+
+Level 33.5 - 3350 floors
+
+Level 33.6 - 3360 floors
+
+Level 33.7 - 3370 floors
+
+Level 33.8 - 3380 floors
+
+Level 33.9 - 3390 floors
+
+Level 34.0 - 3400 floors
+
+Level 34.1 - 3410 floors
+
+Level 34.2 - 3420 floors
+
+Level 34.3 - 3430 floors
+
+Level 34.4 - 3440 floors
+
+Level 34.5 - 3450 floors
+
+Level 34.6 - 3460 floors
+
+Level 34.7 - 3470 floors
+
+Level 34.8 - 3480 floors
+
+Level 34.9 - 3490 floors
+
+Level 35.0 - 3500 floors
+
+Level 35.1 - 3510 floors
+
+Level 35.2 - 3520 floors
+
+Level 35.3 - 3530 floors
+
+Level 35.4 - 3540 floors
+
+Level 35.5 - 3550 floors
+
+Level 35.6 - 3560 floors
+
+Level 35.7 - 3570 floors
+
+Level 35.8 - 3580 floors
+
+Level 35.9 - 3590 floors
+
+Level 36.0 - 3600 floors
+
+Level 36.1 - 3610 floors
+
+Level 36.2 - 3620 floors
+
+Level 36.3 - 3630 floors
+
+Level 36.4 - 3640 floors
+
+Level 36.5 - 3650 floors
+
+Level 36.6 - 3660 floors
+
+Level 36.7 - 3670 floors
+
+Level 36.8 - 3680 floors
+
+Level 36.9 - 3690 floors
+
+Level 37.0 - 3700 floors
+
+Level 37.1 - 3710 floors
+
+Level 37.2 - 3720 floors
+
+Level 37.3 - 3730 floors
+
+Level 37.4 - 3740 floors
+
+Level 37.5 - 3750 floors
+
+Level 37.6 - 3760 floors
+
+Level 37.7 - 3770 floors
+
+Level 37.8 - 3780 floors
+
+Level 37.9 - 3790 floors
+
+Level 38.0 - 3800 floors
+
+Level 38.1 - 3810 floors
+
+Level 38.2 - 3820 floors
+
+Level 38.3 - 3830 floors
+
+Level 38.4 - 3840 floors
+
+Level 38.5 - 3850 floors
+
+Level 38.6 - 3860 floors
+
+Level 38.7 - 3870 floors
+
+Level 38.8 - 3880 floors
+
+Level 38.9 - 3890 floors
+
+Level 39.0 - 3900 floors
+
+Level 39.1 - 3910 floors
+
+Level 39.2 - 3920 floors
+
+Level 39.3 - 3930 floors
+
+Level 39.4 - 3940 floors
+
+Level 39.5 - 3950 floors
+
+Level 39.6 - 3960 floors
+
+Level 39.7 - 3970 floors
+
+Level 39.8 - 3980 floors
+
+Level 39.9 - 3990 floors
+
+Level 40.0 - 4000 floors
+
+Level 40.1 - 4010 floors
+
+Level 40.2 - 4020 floors
+
+Level 40.3 - 4030 floors
+
+Level 40.4 - 4040 floors
+
+Level 40.5 - 4050 floors
+
+Level 40.6 - 4060 floors
+
+Level 40.7 - 4070 floors
+
+Level 40.8 - 4080 floors
+
+Level 40.9 - 4090 floors
+
+Level 41.0 - 4100 floors
+
+Level 41.1 - 4110 floors
+
+Level 41.2 - 4120 floors
+
+Level 41.3 - 4130 floors
+
+Level 41.4 - 4140 floors
+
+Level 41.5 - 4150 floors
+
+Level 41.6 - 4160 floors
+
+Level 41.7 - 4170 floors
+
+Level 41.8 - 4180 floors
+
+Level 41.9 - 4190 floors
+
+Level 42.0 - 4200 floors
+
+Level 42.1 - 4210 floors
+
+Level 42.2 - 4220 floors
+
+Level 42.3 - 4230 floors
+
+Level 42.4 - 4240 floors
+
+Level 42.5 - 4250 floors
+
+Level 42.6 - 4260 floors
+
+Level 42.7 - 4270 floors
+
+Level 42.8 - 4280 floors
+
+Level 42.9 - 4290 floors
+
+Level 43.0 - 4300 floors
+
+Level 43.1 - 4310 floors
+
+Level 43.2 - 4320 floors
+
+Level 43.3 - 4330 floors
+
+Level 43.4 - 4340 floors
+
+Level 43.5 - 4350 floors
+
+Level 43.6 - 4360 floors
+
+Level 43.7 - 4370 floors
+
+Level 43.8 - 4380 floors
+
+Level 43.9 - 4390 floors
+
+Level 44.0 - 4400 floors
+
+Level 44.1 - 4410 floors
+
+Level 44.2 - 4420 floors
+
+Level 44.3 - 4430 floors
+
+Level 44.4 - 4440 floors
+
+Level 44.5 - 4450 floors
+
+Level 44.6 - 4460 floors
+
+Level 44.7 - 4470 floors
+
+Level 44.8 - 4480 floors
+
+Level 44.9 - 4490 floors
+
+Level 45.0 - 4500 floors
+
+Level 45.1 - 4510 floors
+
+Level 45.2 - 4520 floors
+
+Level 45.3 - 4530 floors
+
+Level 45.4 - 4540 floors
+
+Level 45.5 - 4550 floors
+
+Level 45.6 - 4560 floors
+
+Level 45.7 - 4570 floors
+
+Level 45.8 - 4580 floors
+
+Level 45.9 - 4590 floors
+
+Level 46.0 - 4600 floors
+
+Level 46.1 - 4610 floors
+
+Level 46.2 - 4620 floors
+
+Level 46.3 - 4630 floors
+
+Level 46.4 - 4640 floors
+
+Level 46.5 - 4650 floors
+
+Level 46.6 - 4660 floors
+
+Level 46.7 - 4670 floors
+
+Level 46.8 - 4680 floors
+
+Level 46.9 - 4690 floors
+
+Level 47.0 - 4700 floors
+
+Level 47.1 - 4710 floors
+
+Level 47.2 - 4720 floors
+
+Level 47.3 - 4730 floors
+
+Level 47.4 - 4740 floors
+
+Level 47.5 - 4750 floors
+
+Level 47.6 - 4760 floors
+
+Level 47.7 - 4770 floors
+
+Level 47.8 - 4780 floors
+
+Level 47.9 - 4790 floors
+
+Level 48.0 - 4800 floors
+
+Level 48.1 - 4810 floors
+
+Level 48.2 - 4820 floors
+
+Level 48.3 - 4830 floors
+
+Level 48.4 - 4840 floors
+
+Level 48.5 - 4850 floors
+
+Level 48.6 - 4860 floors
+
+Level 48.7 - 4870 floors
+
+Level 48.8 - 4880 floors
+
+Level 48.9 - 4890 floors
+
+Level 49.0 - 4900 floors
+
+Level 49.1 - 4910 floors
+
+Level 49.2 - 4920 floors
+
+Level 49.3 - 4930 floors
+
+Level 49.4 - 4940 floors
+
+Level 49.5 - 4950 floors
+
+Level 49.6 - 4960 floors
+
+Level 49.7 - 4970 floors
+
+Level 49.8 - 4980 floors
+
+Level 49.9 - 4990 floors
+
+Level 50.0 - 5000 floors
+
+Currently capping at 5000, as I don't know of any towers larger than 2666 floors (KMFS) and 5000 seems like a max
+
+<!-- **Stopping at 3000 for now, as I don't have time to keep adding more. Users can edit this if they want to add the next 2000** !-->
+
+**Up for consideration:**
+
+C type: multiples of 5
+
+D type: multiples of 6
+
+E type: multiples of 25
+
+F type: multiples of 100
+
+G type: multiples of 200
+
+H type: multiples of 250
+
+I type: multiples of 500
+
+J type: multiples of 1000
 
 ***
 
@@ -825,9 +1245,9 @@ Level 30.0 - 3000 floors
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Sunday, January 24th 2021 at 8:26 pm)`
+File version: `2 (Monday, January 25th 2021 at 3:56 pm)`
 
-Line count (including blank lines and compiler line): `867`
+Line count (including blank lines and compiler line): `1,315`
 
 ***
 
@@ -849,11 +1269,39 @@ Verson 1 (Sunday, January 24th 2021 at 8:26 pm)
 
 > * Added the footer
 
-Version 2 (Coming soon)
+> * No other changes in version 1
+
+Version 2 (Monday, January 25th 2021 at 3:56 pm)
+
+> Changes:
+
+> * Updated the coin farm description
+
+> * Added levels 3010 to 5000 for B type
+
+> * Added types up for consideration
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
+
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
