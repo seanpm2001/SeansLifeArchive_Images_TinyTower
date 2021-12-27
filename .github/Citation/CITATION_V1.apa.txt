@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2021). Tiny Tower (2011 video game by NimbleBit LLC) screenshot and documentation articles image and article data for machine learning, stock imagery, and TinyTower education and knowledge. [Data set]. https://doi.org/10.0000/00000
