@@ -1,0 +1,69 @@
+# Start of script
+# I am going to keep trying on this until I get it right
+# @seanpm2001 is the global code owner for this project
+/// @seanpm2001
+/ @seanpm2001
+/* @seanpm2001
+* @seanpm2001
+# Directories at root
+/.github/ @seanpm2001
+/tiny tower/ @seanpm2001
+/Docs/ @seanpm2001
+/External/ @seanpm2001
+/OldVersions/ @seanpm2001
+/RepoData/ @seanpm2001
+# Files at root
+.editorconfig @seanpm2001
+.gitattributes @seanpm2001
+.gitignore @seanpm2001
+AUTHORS @seanpm2001
+CITATION.cff @seanpm2001
+CONTRIBUTING.md @seanpm2001
+COPYINGL @seanpm2001
+CREDITS @seanpm2001
+DRM-free_label.en.svg @seanpm2001
+FAIR-USE.md @seanpm2001
+INSTALL @seanpm2001
+K.desktop @seanpm2001
+LICENSE.txt @seanpm2001
+TinyTower_ChristmasLogo.jpeg @seanpm2001
+TinyTower_CoffeeLogo.png @seanpm2001
+TinyTower_DefaultLogo.jpeg @seanpm2001
+TinyTower_ValentinesDay_Logo.png @seanpm2001
+NimbleBit_Logo.png @seanpm2001
+PROJECT_LANG_1.e @seanpm2001
+README.md @seanpm2001
+SECURITY.md @seanpm2001
+SponsorButton.png @seanpm2001
+desktop.ini @seanpm2001
+makefile.mk @seanpm2001
+# Individual file types
+*.txt @seanpm2001
+*.jpg @seanpm2001
+*.JPG @seanpm2001
+*.JPEG @seanpm2001
+*.jpeg @seanpm2001
+*.PNG @seanpm2001
+*.gif @seanpm2001
+*.GIF @seanpm2001
+*.md @seanpm2001
+*.mkd @seanpm2001
+*.mdown @seanpm2001
+*.markdown @seanpm2001
+*.e @seanpm2001
+*.png @seanpm2001
+*.bib @seanpm2001
+*.cff @seanpm2001
+*.svg @seanpm2001
+*.bib @seanpm2001
+*.mk @seanpm2001
+*.mak @seanpm2001
+*.make @seanpm2001
+*.yml @seanpm2001
+*.YAML @seanpm2001
+# No more individual file types for now
+# File info
+# File type: codeowners file (CODEOWNERS)
+# File version: 1 (2021, Monday, December 27th at 12:23 pm
+# Line count (including blank lines and compiler line): 70
+# End of script
