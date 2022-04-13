@@ -8,6 +8,8 @@
 # Eiffel (duplicate)
 *.e linguist-detectable=true
 *.e linguist-documentation=false
+*.e linguist-language=Eiffel
+# Some files were detected as E instead of Eiffel. This is also the first time I am using this parameter.
 # YAML
 *.yml linguist-detectable=false
 *.yml linguist-documentation=false
@@ -16,16 +18,40 @@
 # ReStructuredText
 *.rst linguist-detectable=false
 *.rst linguist-documentation=false
-# WebVTT
-*.vtt linguist-detectable=false
-*.vtt linguist-documentation=false
+# SVG
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# INI
+*.ini linguist-detectable=false
+*.ini linguist-documentation=false
+# KDE Desktop entry
+*.desktop linguist-detectable=false
+*.desktop linguist-documentation=false
+# WikiText
+*.wiki linguist-detectable=false
+*.wiki linguist-documentation=false
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Makefile
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
 # End of linguist script
 # File info
-# File type: .gitattributes file
-# File version: 1 (Wednesday, July 21st 2021 at 4:36 pm)
-# Line count (including blank lines and compiler line): 32
+# File type: gitattributes file (*.gitattributes)
+# File version: 2 (2022, Tuesday, April 12th at 6:31 pm PST)
+# Line count (including blank lines and compiler line): 58
 # End of script
