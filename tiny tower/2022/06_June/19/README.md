@@ -3,7 +3,7 @@
 
 # Notice - Didn't play
 
-## 2022, June 10th status post
+## 2022, June 19th status post
 
 On 2021, January 27th, my phone was auto-updated to Android 11. Tiny Tower kept crashing upon trying to play, and I lost my 620+ consecutive day streak. Accidentally a few days later, I found the game worked again, but didn't feel like playing due to my lost progress. I am still trying to gain interest to play again.
 
