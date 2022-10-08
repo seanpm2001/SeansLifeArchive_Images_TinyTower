@@ -10,6 +10,9 @@
 /.editorconfig
 /.gitattributes
 /.gitignore
+/404.html
+/404.jpeg
+/404.md
 /AUTHORS
 /AUTHORS.md
 /AUTOMATE2001.yml
@@ -50,6 +53,7 @@
 /TinyTower_CoffeeLogo.png
 /TinyTower_DefaultLogo.jpeg
 /TinyTower_ValentinesDay_Logo.png
+/_config.yml
 /desktop.ini
 /makefile.mk
 /pull_request_template.md
