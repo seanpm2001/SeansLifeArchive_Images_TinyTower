@@ -3,11 +3,11 @@
 
 # Notice - Didn't play
 
-## 2023, Thursday, March 9th status post
+## 2023, Wednesday, March 8th status post
 
 On 2021, January 27th, my phone was auto-updated to Android 11. Tiny Tower kept crashing upon trying to play, and I lost my 620+ consecutive day streak. Accidentally a few days later, I found the game worked again, but didn't feel like playing due to my lost progress. I am still trying to gain interest to play again.
 
-I am going for 3 consecutive years (1,095 days) of **NOT** playing Tiny Tower. If I continue at this rate, I will be there in `324` days (last checked on 2023, Tuesday, February 14th with [this link](https://duckduckgo.com/?t=ffab&q=days+until+January+27th+2024&ia=answer)) (unfortunately, DuckDuckGo doesn't support ISO 8601 dates yet)
+I am going for 3 consecutive years (1,095 days) of **NOT** playing Tiny Tower. If I continue at this rate, I will be there in `325` days (last checked on 2023, Tuesday, February 14th with [this link](https://duckduckgo.com/?t=ffab&q=days+until+January+27th+2024&ia=answer)) (unfortunately, DuckDuckGo doesn't support ISO 8601 dates yet)
 
 ***
 
@@ -37,8 +37,6 @@ Update: I am considering extending the date, I don't want to close the door too 
 
 Update: I am considering resuming gameplay in late 2022 or early 2023. New data will be split out to a new repository. I am still trying to work it into my schedule. - 2022, Thursday, June 9th
 
-Update: I have had interest in resuming gameplay of Tiny Tower recently, along with Pocket Frogs and Pocket Trains. - 2023, Thursday, March 9th
-
 ***
 
 <details><summary><H3>Status updates [click/tap here to expand/collapse]</H3></summary>
@@ -57,7 +55,7 @@ The hiatus ended on 2021 September 1st and I am really starting to consider play
 
 ## Counter
 
-I have not played Tiny Tower in `763` days (as of 2023, Thursday, March 9th at 11:59:59:99 pm, as I haven't played since 2021, January 27th) [double checked on 2023, Tuesday, February 14th with this source (DuckDuckGo)](https://duckduckgo.com/?t=ffab&q=days+since+January+27th+2021&ia=answer)
+I have not played Tiny Tower in `762` days (as of 2023, Wednesday, March 8th at 11:59:59:99 pm, as I haven't played since 2021, January 27th) [double checked on 2023, Tuesday, February 14th with this source (DuckDuckGo)](https://duckduckgo.com/?t=ffab&q=days+since+January+27th+2021&ia=answer)
 
 ***
 
@@ -67,9 +65,9 @@ I have not played Tiny Tower in `763` days (as of 2023, Thursday, March 9th at 1
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Thursday, March 9th at 4:16 pm PST)`
+**File version:** `1 (2023, Wednesday, March 8th at 4:17 pm PST)`
 
-**Line count (including blank lines and compiler line):** `116`
+**Line count (including blank lines and compiler line):** `114`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -89,7 +87,7 @@ I have not played Tiny Tower in `763` days (as of 2023, Thursday, March 9th at 1
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-<details><summary><p lang="en"><b>Version 1 (2023, Thursday, March 9th at 4:16 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 1 (2023, Wednesday, March 8th at 4:17 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
