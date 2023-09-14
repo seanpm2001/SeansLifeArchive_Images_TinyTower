@@ -3,11 +3,11 @@
 
 # Notice - Didn't play
 
-## 2023, Tuesday, September 12th status post
+## 2023, Wednesday, September 13th status post
 
 On 2021, January 27th, my phone was auto-updated to Android 11. Tiny Tower kept crashing upon trying to play, and I lost my 620+ consecutive day streak. Accidentally a few days later, I found the game worked again, but didn't feel like playing due to my lost progress. I am still trying to gain interest to play again.
 
-I am going for 3 consecutive years (1,095 days) of **NOT** playing Tiny Tower. If I continue at this rate, I will be there in `137` days (last checked on 2023, Tuesday, June 25th with [this link](https://duckduckgo.com/?t=ffab&q=days+until+January+27th+2024&ia=answer)) (unfortunately, DuckDuckGo doesn't support ISO 8601 dates yet)
+I am going for 3 consecutive years (1,095 days) of **NOT** playing Tiny Tower. If I continue at this rate, I will be there in `136` days (last checked on 2023, Tuesday, June 25th with [this link](https://duckduckgo.com/?t=ffab&q=days+until+January+27th+2024&ia=answer)) (unfortunately, DuckDuckGo doesn't support ISO 8601 dates yet)
 
 ## Note hiatus (2023 June)
 
@@ -69,7 +69,7 @@ The hiatus ended on 2021 September 1st and I am really starting to consider play
 
 ## Counter
 
-I have not played Tiny Tower in `958` days (as of 2023, Tuesday, September 12th at 11:59:59:99 pm, as I haven't played since 2021, January 27th) [double checked on 2023, Tuesday, July 25th with this source (DuckDuckGo)](https://duckduckgo.com/?t=ffab&q=days+since+January+27th+2021&ia=answer)
+I have not played Tiny Tower in `959` days (as of 2023, Wednesday, September 13th at 11:59:59:99 pm, as I haven't played since 2021, January 27th) [double checked on 2023, Tuesday, July 25th with this source (DuckDuckGo)](https://duckduckgo.com/?t=ffab&q=days+since+January+27th+2021&ia=answer)
 
 ***
 
@@ -79,9 +79,9 @@ I have not played Tiny Tower in `958` days (as of 2023, Tuesday, September 12th 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Wednesday, September 13th at 07:17 pm PST)`
+**File version:** `2 (2023, Wednesday, September 13th at 07:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `130`
+**Line count (including blank lines and compiler line):** `151`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -121,6 +121,27 @@ I have not played Tiny Tower in `958` days (as of 2023, Tuesday, September 12th 
 - [x] Added the `file history` section
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Wednesday, September 13th at 07:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _V2 exists today, as I was going way too fast with V1_
+
+> Changes:
+
+- [x] Updated the title section
+- [x] Updated the `didn't play` section
+- [x] Updated the `counter` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
